@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\bin\Debug\net5.0\TarefaString.exe
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\bin\Debug\net5.0\TarefaString.deps.json
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\bin\Debug\net5.0\TarefaString.runtimeconfig.json
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\bin\Debug\net5.0\TarefaString.runtimeconfig.dev.json
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\bin\Debug\net5.0\TarefaString.dll
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\bin\Debug\net5.0\ref\TarefaString.dll
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\bin\Debug\net5.0\TarefaString.pdb
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\TarefaString.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\TarefaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\TarefaString.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\TarefaString.AssemblyInfo.cs
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\TarefaString.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\TarefaString.dll
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\ref\TarefaString.dll
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\TarefaString.pdb
+C:\projetos\ams\1ano\TratamentoDeTexto\TarefaString\obj\Debug\net5.0\TarefaString.genruntimeconfig.cache
